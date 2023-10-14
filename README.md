@@ -12,7 +12,7 @@ Loan Management System Built on Java8 and Spring boot version 2.7.13
 After cloning the project run the command
 > mvn clean install
 
-Set up the database tables using the db scripts in the script folder in parent directory
+Set up the database tables using the db scripts: https://github.com/axat1/loan_management/blob/main/graychain_practical.sql
 
 After that open the project in ide and run the project or you can use this command in you CLI
 > mvn spring-boot:run
